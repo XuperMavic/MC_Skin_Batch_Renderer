@@ -387,10 +387,6 @@ NetEase Minecraft Single-player [Studio]: InspireX<br>
 (Update mobile PE version first, then PC version)<br>
 Welcome to follow, hope you like it, thank you for your support!
 
-## License
-
-This project adopts MIT license, see LICENSE file for details.
-
 ---
 
 **Usage Instructions**: This tool is for learning and personal use only, do not use it for commercial purposes.
